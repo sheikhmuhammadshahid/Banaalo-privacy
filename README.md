@@ -1,4 +1,4 @@
-# Banaalo-privacy
+
 Privacy Policy for Banaalo
 
 At Banaalo, we prioritize the privacy and security of our users' personal information. This Privacy Policy outlines how we collect, use, disclose, and safeguard your data when you utilize our mobile application and associated services. By accessing or using the Banaalo app, you agree to adhere to the terms and conditions outlined in this Privacy Policy.
